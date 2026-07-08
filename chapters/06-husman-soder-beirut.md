@@ -1,0 +1,34 @@
+# Kapitel 6: Husman — från Söder till Beirut
+
+> *Genererad av `/cookbook-draft` ur `bundle/` — redigera aldrig här; rätta i bundlen och regenerera. Se `implementation/COOKBOOK.md`.*
+
+Kanalens hjärta: svensk husmanskost sida vid sida med den libanesiska vardagsmat Roy växte upp med — korvstroganoff möter mahshi, kålpudding möter kafta i röd sås. *(Intro: utkast)*
+
+## Receptfamiljer
+
+**Korvstroganoff-familjen** — Grundrecept: korvstroganoff; variant: snabbversionen med togarashi.
+  - **[Korvstroganoff](../bundle/recipes/korvstroganoff.md)** — Roys korvstroganoff på sofrito-bas med dijonsenap, soja och sambal oelek, serverad med kokt potatis och syrlig sallad. *(video: KORV STROGANOFF | ROY NADER, 2022)* **[⚠ overifierad mängd]**
+  - **[Korvstroganoff snabb (falukorv & togarashi)](../bundle/recipes/korvstroganoff-snabb.md)** — Roys nattmatsvariant av korvstroganoff — grillad falukorv i grädde kryddad med japansk togarashi, serverad med smöriga makaroner toppade med kavia. *(video: SNABBT ENKELT OCH GOTT | KORV STROGANOFF, 2025)* **[⚠ overifierad mängd]**
+
+**Falukorven uppgraderad** — Falukorv i senapsås och dekadenta Falukorv Rossini.
+  - **[Falukorv i senapsås](../bundle/recipes/falukorv-i-senapssas.md)** — Roys uppgraderade version av en bortglömd husmansklassiker — smörstekt falukorv i en krämig senapsås byggd på en löksvettad bottenredning med vitt vin, fond, grädde och rejält med senap, till smörslungad persiljepotatis. *(video: STEKT FALUKORV MED SENAPSSÅS | ROY NADER, 2026)*
+  - **[Falukorv Rossini](../bundle/recipes/falukorv-rossini.md)** — Roys dekadenta parodi på tournedos Rossini — en tjock stubbe falukorv i stället för oxfilé, toppad med stekt anklever och tryffel på en smörstekt brioche, med en rödvins-, Madeira- och tryffelsky. *(video: FALUKORV ROSSINI, 2025)* **[⚠ overifierad mängd]**
+
+## Recept
+
+- **[Korvstroganoff](../bundle/recipes/korvstroganoff.md)** — Roys korvstroganoff på sofrito-bas med dijonsenap, soja och sambal oelek, serverad med kokt potatis och syrlig sallad. *(video: KORV STROGANOFF | ROY NADER, 2022)* **[⚠ overifierad mängd]**
+- **[Korvstroganoff snabb (falukorv & togarashi)](../bundle/recipes/korvstroganoff-snabb.md)** — Roys nattmatsvariant av korvstroganoff — grillad falukorv i grädde kryddad med japansk togarashi, serverad med smöriga makaroner toppade med kavia. *(video: SNABBT ENKELT OCH GOTT | KORV STROGANOFF, 2025)* **[⚠ overifierad mängd]**
+- **[Falukorv i senapsås](../bundle/recipes/falukorv-i-senapssas.md)** — Roys uppgraderade version av en bortglömd husmansklassiker — smörstekt falukorv i en krämig senapsås byggd på en löksvettad bottenredning med vitt vin, fond, grädde och rejält med senap, till smörslungad persiljepotatis. *(video: STEKT FALUKORV MED SENAPSSÅS | ROY NADER, 2026)*
+- **[Falukorv Rossini](../bundle/recipes/falukorv-rossini.md)** — Roys dekadenta parodi på tournedos Rossini — en tjock stubbe falukorv i stället för oxfilé, toppad med stekt anklever och tryffel på en smörstekt brioche, med en rödvins-, Madeira- och tryffelsky. *(video: FALUKORV ROSSINI, 2025)* **[⚠ overifierad mängd]**
+- **[Mustiga köttbullar i röd sås](../bundle/recipes/kottbullar-i-rod-sas.md)** — Roys comfort food-rätt med mellanösterntoner — små kefta-kryddade köttbullar som får koka i en enkel röd tomatsås med potatis och morot, serverade med smörrostat vermicelliris. *(video: KÖTTBULLAR I RÖD SÅS, 2025)* **[⚠ overifierad mängd]**
+- **[Köttbullar med tryffelmos](../bundle/recipes/kottbullar-med-tryffelmos.md)** — Roys dekadenta version av husmansklassikern — saftiga köttbullar på egenmald högrev i en gräddsås med konjak och lingon, till ett nötigt tryffelmos på bakad potatis. *(video: KÖTTBULLAR MED TRYFFELMOS | ROY NADER, 2026)*
+- **[Köttfärslimpa Royal](../bundle/recipes/kottfarslimpa-royal.md)** — Egenmald högrev med dubbel lök och nästan-för-salt smet, formad fri, bränd och glaserad med brynt smör och soja — med Mästerkock-gräddsås, mos och rårörda lingon. *(video: KÖTTFÄRSLIMPA ROYAL | ROY NADER, 2023)*
+- **[Roys Mästerkock-köttbullar](../bundle/recipes/roys-masterkock-kottbullar.md)** — Köttbullarna som vann köttbulls-utmaningen i Sveriges mästerkock 2020 — saftig blandfärs med kryddpeppar och kanel, gräddsås på rotfrukter, potatismos och rårörda lingon. *(video: MINA HYLLADE KÖTTBULLAR FRÅN SVERIGES MÄSTERKOCK 2020, 2020)* **[⚠ Whisper-transkript]**
+- **[Mammas kålpudding](../bundle/recipes/mammas-kalpudding.md)** — Familjen Naders kålpudding utan ris — karamelliserad vitkål med smör och ljus sirap kring en enkel färs, gräddad och serverad med en nedkokt gräddsås med lingon och mjölig potatis. *(video: MAMMAS KÅLPUDDING | HUSMANSKOST | ROY NADER, 2025)* **[⚠ overifierad mängd]**
+- **[Söndagsstek med hasselbackspotatis](../bundle/recipes/sondagsstek.md)** — Uppbunden fransyska bryns, öses och tryckkoks på hårt brända rotfrukter; gräddsås monterad med vilosafterna, hasselbackspotatis med panko och röda vinbärsgelé. *(video: SÖNDAGSSTEK | SYSKONKÄRLEK | NOSTALGI | ROY NADER, 2023)*
+- **[Stekt fläsk med löksås 2.0](../bundle/recipes/stekt-flask-med-loksas.md)** — Roys och Nickes uppgraderade husmansklassiker — sidfläsk vänt i rågmjöl och stekt krispigt, med en löksås redd på söt rostkofflök och nedkokt grädde i stället för mjölredning, serverad med pressad potatis, snabbpicklad lök och lingon. *(video: BORTGLÖMDA SVENSKA KLASSIKER DEL 1 | STEKT FLÄSK MED LÖKSÅS | ROY NADER, 2025)*
+- **[Plankstek två sätt](../bundle/recipes/plankstek-tva-satt.md)** — Köttplanka på hängmörad biff med rödvinssås och bearnaise, fiskplanka på smörbastad marulk med Sandefjordsås — båda med pommes duchesse på bakad potatis. *(video: STOCKHOLMS BÄSTA PLANKSTEK | ROY NADER, 2023)*
+- **[Stuvade makaroner med chistorra](../bundle/recipes/stuvade-makaroner.md)** — Roys stuvade makaroner kokta i minimalt vatten så stärkelsen gör dem krämiga — med mjölk och parmesan, stekt chistorra-korv och ett krispigt ströbrödstopp. *(video: BURGARE OCH STUVADE MAKARONER, 2025)*
+- **[Löksoppa](../bundle/recipes/loksoppa.md)** — Roys och Kris utomhuslagade löksoppa — massvis av blandad lök långsamt karamelliserad i smör över kol, avslutad med portvin, sherry och köttfond och gratinerad med surdegstoast och gruyère. *(video: LÖKSOPPA | ROY NADER, 2024)* **[⚠ overifierad mängd]**
+- **[Mahshi & vinbladsdolma](../bundle/recipes/mahshi-dolma.md)** — Libanesisk festhusman — urgröpta minizucchini, småpaprikor, torkade auberginer och vinbladsdolmar fyllda med kryddad högrevsfärs och ris, kokta på lammracks och vända ur grytan. *(video: HANDLAR BILLIGT I ORTEN | FYLLDA PAPRIKOR VINBLADSDOLMA M.M. | ROY NADER, 2023)*
+- **[Libanesisk frukost](../bundle/recipes/libanesisk-frukost.md)** — Roys och Kris libanesiska frukostbricka — ful på fava-bönor, stekta ägg med zaatar, en ostbricka och en söt ashta-dessert med honung och nötter. *(video: ULTIMATA SHOPPINGGUIDEN I ORTEN | ROY NADER, 2020)* **[⚠ Whisper-transkript]**

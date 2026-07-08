@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Roy Cookbook</title>
+    <meta
+      name="description"
+      content="A warm editorial cookbook webapp for browsing Roy Nader draft chapters and recipes."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#content">Hoppa till innehåll</a>
+
+    <header class="site-header">
+      <nav class="topbar" aria-label="Huvudnavigation">
+        <a class="brand" href="#top" aria-label="Roy Cookbook start">
+          <span class="brand-mark">R</span>
+          <span>Roy Cookbook</span>
+        </a>
+        <div class="topbar-actions">
+          <button class="icon-button" type="button" id="toggleIndex" aria-expanded="false" aria-controls="chapterRail">
+            Kapitel
+          </button>
+          <a class="source-link" href="chapters/" aria-label="Öppna kapitelmappen">Drafts</a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="heroTitle">
+        <div class="hero-kicker">Draft cookbook webapp</div>
+        <div class="hero-grid">
+          <div class="hero-copy">
+            <p class="book-label">Svensk husman, libanesisk värme, grill och fest</p>
+            <h1 id="heroTitle">Ett bokbord för Roys receptvärld.</h1>
+            <p class="hero-lede">
+              Bläddra bland draftkapitlen, hitta recept snabbt och läs materialet som en sammanhållen kokbok innan det går till slutredigering.
+            </p>
+            <div class="hero-actions" aria-label="Primara atgarder">
+              <a class="primary-action" href="#content">Börja läsa</a>
+              <a class="secondary-action" href="#recipeSearch">Sök recept</a>
+            </div>
+          </div>
+          <aside class="book-object" aria-label="Kokbokens status">
+            <span class="book-object-rule"></span>
+            <p class="book-object-label">Editorial status</p>
+            <strong id="chapterCount">9 kapitel</strong>
+            <span id="recipeCount">Laddar recept...</span>
+          </aside>
+        </div>
+      </section>
+
+      <section class="workspace" id="content" aria-label="Kokboksarbetsyta">
+        <aside class="chapter-rail" id="chapterRail" aria-label="Kapitel">
+          <div class="rail-heading">
+            <span>Innehall</span>
+            <button class="rail-close" type="button" id="closeIndex">Stäng</button>
+          </div>
+          <div class="chapter-list" id="chapterList"></div>
+        </aside>
+
+        <section class="reader-shell" aria-live="polite">
+          <div class="reader-toolbar">
+            <label class="search-box" for="recipeSearch">
+              <span>Sök i kokboken</span>
+              <input
+                id="recipeSearch"
+                type="search"
+                placeholder="Sök recept, kapitel eller video..."
+                autocomplete="off"
+              />
+            </label>
+            <div class="filter-group" aria-label="Filter">
+              <button class="filter-chip active" type="button" data-filter="all">Alla</button>
+              <button class="filter-chip" type="button" data-filter="flagged">Att verifiera</button>
+              <button class="filter-chip" type="button" data-filter="video">Med video</button>
+            </div>
+          </div>
+
+          <div class="reader-layout">
+            <article class="chapter-reader" id="chapterReader" tabindex="-1"></article>
+            <aside class="recipe-panel" aria-label="Receptindex">
+              <div class="panel-heading">
+                <span>Receptindex</span>
+                <strong id="visibleRecipeCount">0</strong>
+              </div>
+              <div class="recipe-list" id="recipeList"></div>
+              <div class="empty-state" id="emptyState" hidden>
+                <strong>Inga recept matchar sokningen.</strong>
+                <p>Prova att rensa sökningen eller välj ett annat kapitel.</p>
+                <button class="text-button" type="button" id="clearSearch">Rensa sökning</button>
+              </div>
+            </aside>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Draft chapters stay in <code>cookbook/chapters/</code>. Edit source material there, then refresh this page.</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
